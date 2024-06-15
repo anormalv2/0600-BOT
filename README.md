@@ -1,5 +1,5 @@
 # 0600 BOT
-> <b>🚀 VERSIÓN 6.0</b>
+> <b> 愛 VERSIÓN 愛 0.1</b>
 
 <p align="center"> 
 <a href="https://github.com/anormalv2"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=0600-BOT;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
