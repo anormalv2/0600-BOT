@@ -10,7 +10,7 @@
 <p align="center">
 
 <p align="center">
-<img src="https://telegra.ph/file/86afc8b4881e2013cded4.jpg" alt="0600-BOT" width="900"/>
+<img src="https://telegra.ph/file/add17e1bd57b1d140bcc1.gif" alt="0600-BOT" width="900"/>
 </p>
 
 > 𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑼𝑺𝑨𝑹 𝑬𝑳 𝑩𝑶𝑻
@@ -35,7 +35,7 @@
 ### Cuentas Oficiales:
 > Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de Katashi Fukushima. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
 
-<a href="https://https://www.instagram.com/vvruno_">
+<a href="https://www.instagram.com/vvruno_">
 <img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
 </a>
 
