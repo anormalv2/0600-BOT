@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/anormalv2/0600-BOT
 
-WORKDIR /root/KatashiBot-MD
+WORKDIR /root/0600-BOT
 
-COPY ./root/KatashiBot-MD
+COPY ./root/0600-BOT
 
 RUN yarn install
 
