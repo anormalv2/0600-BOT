@@ -4,5 +4,5 @@
  
 | USUARIO          |   INICIO                | FIN    | ESTADO
 | ------------     | ------------            | -------| --------
-| [**@vvruno**](-) | `3 Junio` | `20 Julio`  |        | ✅
+| [**@vvruno**](-) | `3 Junio` | `31 Diciembre`          |   ✅
 
